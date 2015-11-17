@@ -322,3 +322,12 @@ footer {
     color:#444;
   }
 }
+.info{
+	text-align:center;
+}
+
+.info img{
+	width:150px;
+	height:150px;
+	border:2px solid #ccc;
+}
